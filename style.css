@@ -10,6 +10,7 @@ h1 {
 }
 
 h2 {
+  margin-top: 0%;
   text-align: center;
 }
 
@@ -54,6 +55,7 @@ p {
 }
 
 .quote {
+  margin-top: 0%;
   margin-left: 75%;
 }
 
@@ -62,4 +64,16 @@ p {
   position: relative;
   margin-left: 25%;
   margin-right: 25%;
+}
+
+.projectTitle {
+  margin-bottom: 0%;
+  margin-left: 5%;
+}
+
+.projectDesc {
+  margin-top: 0%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 0%;
 }
