@@ -13,6 +13,20 @@ h2 {
   text-align: center;
 }
 
+img {
+  max-width: 75%;
+  max-height: 75%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10%;
+  border: 3px solid;
+  border-radius: 15px;
+}
+
+p {
+  margin-left: 8px;
+}
+
 .sidebar {
   font-family: Consolas;
   margin: 1%;
@@ -39,6 +53,13 @@ h2 {
   overflow:auto;
 }
 
-p {
-  margin-left: 8px;
+.quote {
+  margin-left: 75%;
+}
+
+.inquote {
+  max-width: 50%;
+  position: relative;
+  margin-left: 25%;
+  margin-right: 25%;
 }
